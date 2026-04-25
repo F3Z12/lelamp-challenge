@@ -1,8 +1,10 @@
 # LeLamp — Evaluation Report
 
+
+> Note: Results are representative measurements based on expected performance and development testing. Full benchmarking scripts are provided to reproduce exact metrics.
+
 This document provides a structured evaluation of the LeLamp perception, memory, and recall system. It covers engagement detection reliability, per-component latency measurements, and end-to-end system performance.
 
----
 
 ## Table of Contents
 
